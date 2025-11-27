@@ -6,7 +6,7 @@ Di-gi Gen guaranteed to keep building transparency with following non-obtrusive 
 
 | module | useage |  
 | --- | --- |  
-| [cloudflare](https://github.com/caddy-dns/cloudflare)<br/> | wildcard cert provide |  
+| [cloudflare](https://github.com/caddy-dns/cloudflare)、[gcore](https://github.com/caddy-dns/gcore)<br/> | wildcard cert provide |  
 | [transform-encoder](https://github.com/caddyserver/transform-encoder)<br/> | log formater |  
 | [caddy-security](https://github.com/greenpau/caddy-security)<br/> | singgle sign-on |  
 | [caddy-l4](https://github.com/mholt/caddy-l4)<br/> | sni fallback |  

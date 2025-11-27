@@ -2,6 +2,7 @@ FROM caddy:builder AS builder
 
 RUN xcaddy build \
     --with github.com/caddy-dns/cloudflare \
+    --with github.com/caddy-dns/gcore \
     --with github.com/greenpau/caddy-security \
     --with github.com/mholt/caddy-l4 \
     --with github.com/caddyserver/transform-encoder \
